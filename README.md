@@ -4,7 +4,7 @@ This project is a **3D Flip Card UI** built using **HTML** and **SCSS**, showcas
 
 ## 🚀 Live Demo
 
-👉 [View the deployed site on GitHub Pages](https://AsirHassan.github.io/3d-flip-card-site/)  
+👉 [View the deployed site on GitHub Pages]([https://AsirHassan.github.io/3d-flip-card-site/](https://asirhassan.github.io/3d-flip-card-site/))  
 
 ---
 
